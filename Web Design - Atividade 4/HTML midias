@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title> Mídias em HTML </title>
+    <style>
+        <table border="1">{width = 100%; border-collapse: collapse;}
+            <tr>
+            <td> linha 1, coluna 1 </td> 
+            <td> lonha 1 coluna 2 </td>
+            <td> linha 1, coluna 3 </td>
+            <td> linha 1, culuna 4 </td>
+            </tr>
+            <tr>
+                <td> linha 2, coluna 1 </td>
+                <td> linha 2, coluna 2 </td>
+                <td> linha 2,  coluna 3 </td>
+                <td> linha 2, coluna 4 </td>
+
+
+            </table>
+    </style>
+
+    </style>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <button id="Botao">Clique</button>
+    <script src="script.js"></script>
+</body>
+</html>
